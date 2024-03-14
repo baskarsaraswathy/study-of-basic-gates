@@ -63,14 +63,30 @@ Y= A⊕B
 
 
 **PROGRAM**
+~~~
+
+module baskar(a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y3,y4,y5,y6,y7;
+and(y1,a,b);
+or(y2,a,b);
+not(y3,a);
+xor(y4,a,b);
+nand(y5,a,b);
+nor(y6,a,b);
+xnor(y7,a,b);
+endmodule
+
+~~~
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by:BASKAR J RegisterNumber: 212223040025
  
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+![Screenshot 2024-03-14 203808](https://github.com/baskarsaraswathy/study-of-basic-gates/assets/144871005/700d432c-46d3-4b41-a7af-5ad047db7f22)
 
 **RTL**
 
