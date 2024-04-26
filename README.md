@@ -61,7 +61,6 @@ Y= A⊕B
 
 **PROGRAM**
 ~~~
-
 module baskar(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -73,7 +72,6 @@ nand(y5,a,b);
 nor(y6,a,b);
 xnor(y7,a,b);
 endmodule
-
 ~~~
 
 Program for logic gates and verify its truth table in quartus using Verilog programming.
@@ -83,12 +81,9 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 ![dd](https://github.com/baskarsaraswathy/study-of-basic-gates/assets/144871005/29b6e32e-55b8-4911-a8b8-5eadbb8739fa)
-
 **RTL realization Output:** 
 ![Screenshot 2024-03-14 203808](https://github.com/baskarsaraswathy/study-of-basic-gates/assets/144871005/700d432c-46d3-4b41-a7af-5ad047db7f22)
-
 **RTL**
 ![Screenshot 2024-03-14 204532](https://github.com/baskarsaraswathy/study-of-basic-gates/assets/144871005/cc26cedd-393b-4338-8935-d6a79e532919)
-
 **Result:**
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
