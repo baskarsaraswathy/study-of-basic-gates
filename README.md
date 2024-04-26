@@ -1,4 +1,4 @@
-### study-of-basic-gates
+# EXP 01-Study of basic gates
 
 **AIM:** 
 
@@ -79,9 +79,10 @@ endmodule
 
 ~~~
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+Program for logic gates and verify its truth table in quartus using Verilog programming.
 
- Developed by:BASKAR J RegisterNumber: 212223040025
+# Developed by : BASKAR J 
+# RegisterNumber : 212223040025
  
 **Logic symbol & Truthtable**
 ![dd](https://github.com/baskarsaraswathy/study-of-basic-gates/assets/144871005/29b6e32e-55b8-4911-a8b8-5eadbb8739fa)
