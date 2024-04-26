@@ -1,4 +1,4 @@
-# EXP 01-Study of basic gates
+# EXP 01-STUDY_OF_BASIC_GATES
 
 **AIM:** 
 
